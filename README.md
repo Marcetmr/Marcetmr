@@ -3,7 +3,7 @@
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
   - Personal Website
-  - Task Manager
+  - Task Manager (https://github.com/Marcetmr/my-react-task-list/tree/main)
   - Event Manager
 
 
