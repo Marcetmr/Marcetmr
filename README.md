@@ -1,8 +1,8 @@
-<h1>👋 Welcome to my GitHub! <br/><a href="https://github.com/Marcetmr">🚀 Frontend Developer & Digital Marketer 🎨💻</a><br>
+<h1>👋 Hello World, I'm Marcela!<br><a href="https://github.com/Marcetmr">🚀 Frontend Developer & Digital Marketer 🎨💻</a><br>
 
 <h2>🌟 Specializing in:</h2>
-  - Frontend Development: HTML, CSS, JavaScript, React, WordPress, Node, Express.js and MongoDB <br>
-  - Digital Marketing: SEO, social media management, copywriting and content creation, graphic design with Canva<br>
+  - Frontend Development: HTML, CSS, JavaScript, React, WordPress, Node, Express.js and MongoDB 
+  - Digital Marketing: SEO, social media management, copywriting and content creation, graphic design with Canva
 
 <h2>👩🏽‍💻 My Projects</h2>
     <a href="#">Personal Website</a> - An HTML, CSS, and JavaScript-based personal website showcasing creativity and skills, with GitHub documentation.
