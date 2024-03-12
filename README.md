@@ -1,6 +1,6 @@
 <h1>👋 Welcome to my GitHub! <br/><a href="https://github.com/Marcetmr">🚀 Frontend Developer & Digital Marketer 🎨💻</a><br>
 
-<h2>🌟 Specializing in:</h2><br>
+<h2>🌟 Specializing in:</h2>
   - Frontend Development: HTML, CSS, JavaScript, React, WordPress, Node, Express.js and MongoDB <br>
   - Digital Marketing: SEO, social media management, copywriting and content creation, graphic design with Canva<br>
 
