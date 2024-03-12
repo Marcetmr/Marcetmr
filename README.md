@@ -1,12 +1,12 @@
-<h1>👋 Welcome to my GitHub! <br/><a href="https://github.com/Marcetmr">🚀 Frontend Developer & Digital Marketer 🎨💻</a>
+<h1>👋 Welcome to my GitHub! <br/><a href="https://github.com/Marcetmr">🚀 Frontend Developer & Digital Marketer 🎨💻</a><br>
 
-<p>👨‍💻 I'm passionate about crafting immersive digital experiences through code and creativity.</p>
+<h2>👨‍💻 I'm passionate about crafting immersive digital experiences through code and creativity.</h2><br>
 
-<p>🌟 Specializing in:<br>
+<h2>🌟 Specializing in:<br>
   - Frontend Development: HTML, CSS, JavaScript, React, WordPress, Node, Express.js and MongoDB <br>
-  - Digital Marketing: SEO, social media management, copywriting and content creation, graphic design with Canva </p>
+  - Digital Marketing: SEO, social media management, copywriting and content creation, graphic design with Canva </h2><br>
 
-<p>💼 Currently, I'm blending my skills in frontend development and digital marketing to create compelling web solutions that not only look great but also drive results.</p>
+<h2>💼 Currently, I'm blending my skills in frontend development and digital marketing to create compelling web solutions that not only look great but also drive results.</h2>
 
 <h2>👩🏽‍💻 My Projects</h2>
     <a href="#">Personal Website</a> - An HTML, CSS, and JavaScript-based personal website showcasing creativity and skills, with GitHub documentation.
