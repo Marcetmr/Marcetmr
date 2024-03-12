@@ -1,37 +1,31 @@
-<h1>Hello World, ¡soy Marcela! <br/><a href="https://github.com/Marcetmr">Front-End Developer</a>, <a href="https://www.linkedin.com/in/marcetmr/">Digital Marketing</a></h1>
+<h1>👋 Welcome to my GitHub! <br/><a href="https://github.com/Marcetmr">🚀 Frontend Developer & Digital Marketer 🎨💻</a>
 
-<h2>👩🏽‍💻 Mis Proyectos</h2>
+<p>👨‍💻 I'm passionate about crafting immersive digital experiences through code and creativity.</p>
 
-  - Personal Website
-  - Task Manager (https://github.com/Marcetmr/my-react-task-list/tree/main)
-  - Event Manager
+<p>🌟 Specializing in:<br>
+  - Frontend Development: HTML, CSS, JavaScript, React, WordPress, Node, Express.js and MongoDB <br>
+  - Digital Marketing: SEO, social media management, copywriting and content creation, graphic design with Canva </p>
 
+<p>💼 Currently, I'm blending my skills in frontend development and digital marketing to create compelling web solutions that not only look great but also drive results.</p>
 
-<h2>📄 Certificados </h2>
+<h2>👩🏽‍💻 My Projects</h2>
+    <a href="#">Personal Website</a> - An HTML, CSS, and JavaScript-based personal website showcasing creativity and skills, with GitHub documentation.
+    <a href="#">Task Manager Web App</a> - A React-based task manager web app for streamlined organization and productivity, fully documented on GitHub.
+    <a href="#">Event Manager Web App</a> - A React-based event manager web app designed for effective organization and coordination of events, documented on GitHub.
 
-- [PROTalento]
+<h2>📄 Certificates </h2>
+    <a href="#">Full-Stack Web Development (MERN)</a> - PROTalento - Ada School
+    <a href="#">SEO and Web Positioning</a> - Udemy
 
-<h2>📺 Videos Demo</h2>
+<h2>📺 Video Demos</h2>
+    - Personal Website
+    - Task Manager
+    - Event Manager
 
-- Task Manager
-- Event Manager
-
-
-<h2> 🤳 Conecta conmigo:</h2>
+<h2> 🤳 Contact Me:</h2>
 
 [<img align="left" alt="NaekMejia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/marcetmr/
 
-<!--
-**naekm/naekmv** es un repositorio ✨ _special_ ✨ ya que el archivo `README.md` (este archivo ) aparece directamente en tu perfil de Github.
 
-Aquí hay más cosas que puedes incluir:
-
-- 🔭 Estoy trabajando en ...
-- 🌱 Actualmente aprendo ...
-- 👯 Estoy buscando colaborar con ...
-- 💬 Me puedes preguntar de ...
-- 📫 Cómo contactarme: ...
-
--->
